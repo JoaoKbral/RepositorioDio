@@ -1,0 +1,24 @@
+classe: precedido por um ponto
+
+ID: precedido por um hash
+
+box model:
+	1. Margem: são os espaçamentos entre elementos 
+	2. Borda: circunda o pad e conteúdo
+	3. Padding: espaçamento em borda e conteúdo
+	4. Conteúdo
+
+MDM: pra estudar
+
+É uma boa prática manter as margens sempre na mesma direção
+
+font-family
+font-size
+font-style
+font-weight
+text-transform
+text-decoration
+
+list-style-type
+list-style-image: url(" ")
+

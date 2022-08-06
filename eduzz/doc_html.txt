@@ -1,0 +1,16 @@
+p: paragrafo
+
+a: link(anchor)
+	<a href="link" target="_blank">link</a>
+	< a href="mailto:axaknocn@afna.com">link</a> para mandar um email, irá direto para o servidor do padrão do computador
+	<a href="telto:01284687464">link</a>
+
+img: image
+	<img src="img/avatar.jpeg">
+	<img alt="mostra descrição da foto">
+	tinyPNG.com
+
+ul: lista em que a ordem não importa
+
+ol: a ordem dos itens impostar
+	li: elemento da lista
